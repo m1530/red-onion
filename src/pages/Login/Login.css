@@ -1,0 +1,11 @@
+.login{
+    height: 496px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(../../images/bannerbackground.png) no-repeat center center;
+}
+.common-img{
+   width: 250px;
+   padding: 5px;
+}

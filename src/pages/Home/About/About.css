@@ -1,0 +1,17 @@
+.first-delivery-icon{
+    background-color: rgb(224, 35, 35);
+    border-radius: 30px;
+    color: white;
+    padding: 12px;
+}
+.arrow-right-icon{
+    background-color: rgb(45, 173, 45);
+    border-radius: 24px;
+    font-size: 22px;
+    padding: 4px 2px;
+    color: white;
+}
+.about-navlink{
+    text-decoration: none;
+    font-weight: bolder;
+}

@@ -1,0 +1,17 @@
+.signup{
+    height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(../../images/bannerbackground.png) no-repeat center center;
+}
+
+.common-img{
+    width: 250px;
+    padding: 5px;
+    margin-top: 10px;
+     text-align: center;
+}
+.common-img img{
+    height: 50px;
+}

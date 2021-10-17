@@ -1,0 +1,9 @@
+.food-card{
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+    border: none;
+}
+.food-card:hover{
+     box-shadow: 3px 5px 10px #aaaaaa;
+}
